@@ -1,5 +1,6 @@
-html
-css
-js
-json
+nnedx.html
+css.css
+script.js
+manifest.json
 icons
+
